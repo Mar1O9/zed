@@ -46,7 +46,7 @@
     "right_padding": 0.15
   },
   // Use Copilot Chat AI as default
-  "agent": {
+  "assistant": {
     "default_model": {
       "provider": "copilot_chat",
       "model": "claude-3-5-sonnet"
