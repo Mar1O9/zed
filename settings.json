@@ -10,9 +10,9 @@
   "features": {
     "edit_prediction_provider": "zed"
   },
-  "icon_theme": "Zed (Default)",
+  "icon_theme": "Catppuccin Mocha",
   "base_keymap": "VSCode",
-  "theme": "Gruber Darker",
+  "theme": "Catppuccin Mocha (Blur)",
   "ui_font_size": 20,
   "buffer_font_weight": 600,
   "buffer_line_height": "standard",
